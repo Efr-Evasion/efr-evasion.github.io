@@ -5,7 +5,6 @@ permalink: /transports/
 nav_order : 2
 ---
 
-
 # Transports
 
 ## Table des matières
@@ -19,6 +18,8 @@ nav_order : 2
 
 Les billets d'avion sont l'un des postes de dépense les plus importants pour le voyage. Voici quelques conseils pour réduire le coût de vos billets d'avion :
 
+### Avant le vol
+
 - ⏱️ **Acheter son billet le plus tôt possible**. Les prix des billets d'avion augmentent au fur et à mesure que la date du départ approche. Il est donc préférable de réserver son billet le plus tôt possible. 
 
 - 🕑 **Acheter les billets d'avion en semaine et de nuit**. Les prix des billets d'avion sont généralement plus élevés le week-end et en journée.
@@ -29,3 +30,14 @@ Les billets d'avion sont l'un des postes de dépense les plus importants pour le
 
 - 🔒 **Prendre un billet directement auprès de la compagnie aérienne.** Les revendeurs de billets d'avion tels que [Opodo](https://www.opodo.fr/) ou [GoToGate](https://www.govoyages.com/) sont souvent moins chers car il s'agit de services de courtage. Cependant, ils ne sont pas toujours fiables et il est parfois difficile de les joindre en cas de problème. Réserver sur le site de la compagnie vous permettra d'avoir un interlocuteur dédié et plus simple à joindre en cas de problème. En plus de cela, vous pourrez cumuler des avantages fidélité.
 
+- 💺 **Si vous voyagez à 2, choisissez les deux extrémités de la rangée.** Si le vol n'est pas complet, il y a de fortes chances que personne ne s'assoit entre vous deux. Sinon, vous pourrez toujours demander à votre voisin de changer de place avec vous.
+
+- 🚾 **Eviter les sièges près des toilettes et de l'arrière de l'avion.** Les sièges près des toilettes sont souvent bruyants et les sièges à l'arrière de l'avion sont souvent réservés aux familles avec enfants (qui pleurent souvent). Vous pouvez trouver une carte des sièges de l'avion que vous allez prendre sur le site [Seatmaps.com](https://seatmaps.com/fr/)
+
+- 🍿 **Prendre un maximum de divertissement.** Les vols long-courriers sont souvent équipés d'écrans individuels avec des films, des séries et des jeux. Vous pouvez aussi prendre un livre, un jeu de cartes, un casque audio, un ordinateur portable, une tablette avec des films et des séries téléchargés.
+
+### Pendant le vol
+
+- 🧦 **Mettre des chaussettes de compression**. Cela permet de favoriser le flux sanguin qui est limité par la position assise prolongée. Les chaussettes de compression sont disponibles dans les pharmacies et les magasins de sport. Vous pouvez en trouver chez Amazon ou Decathlon.
+
+- 

@@ -35,8 +35,8 @@ Pour chacune des destinations, les vaccins du [calendrier vaccinal](https://vacc
 
 Il y a plusieurs possibilités pour se faire vacciner :
 
-1. Chez son médecin traitant
-2. Dans un centre de vaccination international. Ils fonctionnent avec ou sans rendez-vous et vous vaccinent directement sur place.
+1. Chez son médecin traitant. Cela nécessite deux rendez-vous : un premier pour la consultation et un second pour l'injection du vaccin.
+2. Dans un centre de vaccination international. Il fonctionne avec ou sans rendez-vous et vous vaccine directement sur place.
 
 Il y en a quelques-uns sur Paris :
 
