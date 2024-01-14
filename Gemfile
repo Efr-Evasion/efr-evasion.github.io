@@ -9,7 +9,9 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "just-the-docs"
-gem "github-pages", group: :jekyll_plugins
+
+gem "jekyll", "~> 4.3.3"
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
