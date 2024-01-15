@@ -2,7 +2,7 @@
 layout: page
 title: Internet et téléphone
 permalink: /montreal/internet-telephone/
-parent: 🇨🇦 Montreal
+parent: 🇨🇦 Montréal
 ---
 
 # Internet et téléphone

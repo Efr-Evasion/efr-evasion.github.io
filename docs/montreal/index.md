@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 🇨🇦 Montreal
+title: 🇨🇦 Montréal
 permalink: /montreal/
 has_children: true
 nav_order: 2
 ---
 
-# Montreal
+# Montréal
 
