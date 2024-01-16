@@ -43,3 +43,10 @@ On vous conseille de prendre un Grab plutôt qu'un taxi en général.
 
 ## Hors de Kuala Lumpur
 
+### En train
+
+### En bus
+
+Les bus couvrent une grande partie du territoire malaisien. Ils sont confortables et climatisés. Il existe plusieurs compagnies de bus. Vous pouvez réserver vos billets sur :
+
+- [Easybook](https://www.easybook.com/). Il vous permet d'acheter des billets de bus, de train, de ferry et de voiture de location en Malaisie et dans les pays voisins.

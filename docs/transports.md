@@ -2,7 +2,6 @@
 layout: page
 title: ✈️ Transports
 permalink: /transports/
-nav_order : 2
 ---
 
 # Transports
@@ -34,10 +33,12 @@ Les billets d'avion sont l'un des postes de dépense les plus importants pour le
 
 - 🚾 **Eviter les sièges près des toilettes et de l'arrière de l'avion.** Les sièges près des toilettes sont souvent bruyants et les sièges à l'arrière de l'avion sont souvent réservés aux familles avec enfants (qui pleurent souvent). Vous pouvez trouver une carte des sièges de l'avion que vous allez prendre sur le site [Seatmaps.com](https://seatmaps.com/fr/)
 
+- 🧳 **Voyager léger.** Les compagnies aériennes facturent souvent les bagages en soute, notamment sur les vols courts. Il est donc préférable de voyager léger et de prendre un bagage cabine. Vous pouvez trouver une liste de bagages cabine autorisés sur le site [Bagage Cabine](https://www.bagagecabine.com/).
+
+- 🌍 **Regarder la carte des correspondances d'aéroports** : [Flight Connections](https://www.flightconnections.com/fr/). C'est un site très utile pour prévoir des voyages.
+
 - 🍿 **Prendre un maximum de divertissement.** Les vols long-courriers sont souvent équipés d'écrans individuels avec des films, des séries et des jeux. Vous pouvez aussi prendre un livre, un jeu de cartes, un casque audio, un ordinateur portable, une tablette avec des films et des séries téléchargés.
 
 ### Pendant le vol
 
 - 🧦 **Mettre des chaussettes de compression**. Cela permet de favoriser le flux sanguin qui est limité par la position assise prolongée. Les chaussettes de compression sont disponibles dans les pharmacies et les magasins de sport. Vous pouvez en trouver chez Amazon ou Decathlon.
-
-- 
