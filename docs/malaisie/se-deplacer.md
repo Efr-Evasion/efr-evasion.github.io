@@ -15,15 +15,24 @@ parent: 🇲🇾 Malaisie
 
 ## A Kuala Lumpur
 
-### En transports en commun
-
-C'est la solution à privilégier pour éviter les bouchons dans la ville pendant les heures de pointe.
+Pendant les heures de pointe, il vaut mieux éviter de prendre la voiture. Il y a beaucoup de bouchons et il est difficile de trouver une place de parking. Il est préférable de prendre les transports en commun.
 
 🚌 **Installer des applis de transports en commun** : [Moovit](https://moovitapp.com/) et [MyRapid PULSE](https://myrapid.com.my/pulse/mobile-app/) sont les deux applis à avoir pour se déplacer en transports en commun à Kuala Lumpur. Elles permettent de calculer des itinéraires, de connaître les horaires et de savoir où se trouvent les arrêts de bus et de métro les plus proches.
 
+### En métro / monorail
+
+Le métro de Kuala Lumpur est géré par la compagnie [RapidKL](https://www.myrapid.com.my/). Vous pouvez acheter des tickets à l'unité ou des cartes de transport rechargeables. Vous pouvez trouver les horaires et les tarifs sur le site de [RapidKL](https://www.myrapid.com.my/).
+
 Carte du réseau de trains de Kuala Lumpur :
 
-![Carte du réseau de transports en commun de Kuala Lumpur](/assets/images/malaisie/KL-carte-transports.webp)
+![Carte du réseau de trains](/assets/images/malaisie/KL-carte-transports.webp)
+
+### En bus
+
+Le réseau de bus de Kuala
+
+
+
 
 ### En VTC
 
