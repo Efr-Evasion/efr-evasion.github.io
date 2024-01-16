@@ -45,8 +45,25 @@ On vous conseille de prendre un Grab plutôt qu'un taxi en général.
 
 ### En train
 
+Les trains en Malaisie sont gérés par la compagnie [KTM](https://www.ktmb.com.my/). Le réseau ferroviaire malaisien est en forme de Y, avec un tronc commun qui part de Singapour et se sépare en deux branches à Gemas.
+
+![Carte du réseau ferroviaire malaisien](/assets/images/malaisie/malaysia-rail-map.png)
+
+Il y a deux types de trains :
+
+- Les KTM ETS (*Electric Train Service*) sont des trains électriques qui relient les grandes villes de la péninsule malaisienne. Ils sont rapides et confortables et opèrent principalement sur la côte ouest.
+
+- Les KTM Intercity sont des trains qui relient les grandes villes de la péninsule malaisienne. Ils sont plus lents et moins confortables que les ETS. Ils couvrent le reste du territoire.
+
+Vous pouvez réserver vos billets de train sur le site de la compagnie [KTM](https://www.ktmb.com.my/).
+
 ### En bus
 
 Les bus couvrent une grande partie du territoire malaisien. Ils sont confortables et climatisés. Il existe plusieurs compagnies de bus. Vous pouvez réserver vos billets sur :
 
 - [Easybook](https://www.easybook.com/). Il vous permet d'acheter des billets de bus, de train, de ferry et de voiture de location en Malaisie et dans les pays voisins.
+
+- [Redbus](https://www.redbus.my/). Il vous permet d'acheter des billets de bus et de ferry pour la Malaisie, Singapour et Brunei.
+
+
+
