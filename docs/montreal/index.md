@@ -8,3 +8,4 @@ nav_order: 2
 
 # Montréal
 
+![Cover](/assets/images/montreal/montreal_accueil.png)
