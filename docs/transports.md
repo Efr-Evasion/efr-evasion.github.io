@@ -39,6 +39,8 @@ Les billets d'avion sont l'un des postes de dépense les plus importants pour le
 
 - 🍿 **Prendre un maximum de divertissement.** Les vols long-courriers sont souvent équipés d'écrans individuels avec des films, des séries et des jeux. Vous pouvez aussi prendre un livre, un jeu de cartes, un casque audio, un ordinateur portable, une tablette avec des films et des séries téléchargés.
 
+- 💊 **Ne pas oublier les médicaments pour le mal des transports !** Ce serait tout de même dommage d'avoir son voyage (long-courrier qui plus est) complètement gâché par des nausées régulières n'est-ce pas ? Alors pensez à prendre avec vous quelques traitements si vous en avez besoin, la Nautamine fonctionne très bien (par expérience... oui...)
+
 ### Pendant le vol
 
 - 🧦 **Mettre des chaussettes de compression**. Cela permet de favoriser le flux sanguin qui est limité par la position assise prolongée. Les chaussettes de compression sont disponibles dans les pharmacies et les magasins de sport. Vous pouvez en trouver chez Amazon ou Decathlon.
