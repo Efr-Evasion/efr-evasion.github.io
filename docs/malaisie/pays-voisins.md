@@ -52,9 +52,9 @@ Il est possible de prendre le bus pour aller à Singapour depuis Kuala Lumpur. L
 
 Prendre le train entre Kuala Lumpur et Singapour est possible en faisant plusieurs correspondances.
 
-1. Kuala Lumpur à Gemas avec la compagnie [KTM](https://www.ktmb.com.my/). Le trajet dure environ 2h30 et coûte environ 5 €. Il y a plusieurs trains par jour. Il est possible de réserver les billets en ligne sur le site de la [compagnie](https://www.ktmb.com.my/).
-2. Gemas à JB Sentral avec la compagnie [KTM](https://www.ktmb.com.my/). Le trajet dure environ 4h30 et coûte environ 5 €. Il y a plusieurs trains par jour. Il est possible de réserver les billets en ligne sur le site de la [compagnie](https://www.ktmb.com.my/).
-3. JB Sntral à Singapour-Woodlands avec la compagnie [Shuttle Tebrau](https://shuttleonline.ktmb.com.my/Home/Shuttle). Le trajet dure environ 5 minutes et coûte environ 1 €. Il y a plusieurs trains par jour. Il est possible de réserver les billets en ligne sur le site de la [compagnie](https://shuttleonline.ktmb.com.my/Home/Shuttle).
+1. Kuala Lumpur à Gemas avec la compagnie [KTM](https://www.ktmb.com.my/){:target="_blank"}. Le trajet dure environ 2h30 et coûte environ 5 €. Il y a plusieurs trains par jour. Il est possible de réserver les billets en ligne sur le site de la [compagnie](https://www.ktmb.com.my/){:target="_blank"}.
+2. Gemas à JB Sentral avec la compagnie [KTM](https://www.ktmb.com.my/){:target="_blank"}. Le trajet dure environ 4h30 et coûte environ 5 €. Il y a plusieurs trains par jour. Il est possible de réserver les billets en ligne sur le site de la [compagnie](https://www.ktmb.com.my/){:target="_blank"}.
+3. JB Sntral à Singapour-Woodlands avec la compagnie [Shuttle Tebrau](https://shuttleonline.ktmb.com.my/Home/Shuttle){:target="_blank"}. Le trajet dure environ 5 minutes et coûte environ 1 €. Il y a plusieurs trains par jour. Il est possible de réserver les billets en ligne sur le site de la [compagnie](https://shuttleonline.ktmb.com.my/Home/Shuttle){:target="_blank"}.
 
 ## 🇹🇭 Thaïlande
 
@@ -69,7 +69,7 @@ Un visa n'est pas nécessaire pour un séjour touristique de moins de 30 jours.
 
 ### Aller en Thaïlande
 
-Le plus simple pour aller en Thaïlande depuis Kuala Lumpur est de prendre l'avion. Il y a plusieurs vols par jour entre les deux pays et avec différentes compagnies : [AirAsia](https://www.airasia.com/en/gb), [Malaysia Airlines](https://www.malaysiaairlines.com/my/en.html), [Thai Airways](https://www.thaiairways.com/en/index.page), [Scoot](https://www.flyscoot.com/en) ou [JetStar](https://www.jetstar.com/au/en/home). Le prix d'un billet d'avion aller simple est d'environ 30 € en semaine.
+Le plus simple pour aller en Thaïlande depuis Kuala Lumpur est de prendre l'avion. Il y a plusieurs vols par jour entre les deux pays et avec différentes compagnies : [AirAsia](https://www.airasia.com/en/gb){:target="_blank"}, [Malaysia Airlines](https://www.malaysiaairlines.com/my/en.html){:target="_blank"}, [Thai Airways](https://www.thaiairways.com/en/index.page){:target="_blank"}, [Scoot](https://www.flyscoot.com/en) ou [JetStar](https://www.jetstar.com/au/en/home){:target="_blank"}. Le prix d'un billet d'avion aller simple est d'environ 30 € en semaine.
 
 **Conseil** : Ne pas hésiter à comparer les prix et choisir le moment opportun pour voyager à bas coût (voir [Transports](/transports)).
 
@@ -82,11 +82,11 @@ Pour entrer en Indonésie, les ressortissants français doivent avoir :
 - un passeport valide au moins 6 mois après la date de retour
 - un billet retour
 
-Il faut faire une demande de visa électronique à l'arrivée (e-VOA) avant le départ sur le site de l'ambassade d'Indonésie en France : [Ambassade d'Indonésie en France](https://kemlu.go.id/paris/en). Les frais du visa sont de 35 €. Le visa est valable 30 jours.
+Il faut faire une demande de visa électronique à l'arrivée (e-VOA) avant le départ sur le site de l'ambassade d'Indonésie en France : [Ambassade d'Indonésie en France](https://kemlu.go.id/paris/en){:target="_blank"}. Les frais du visa sont de 35 €. Le visa est valable 30 jours.
 
 ### Aller en Indonésie
 
-Le plus simple pour aller en Indonésie depuis Kuala Lumpur est de prendre l'avion. Il y a plusieurs vols par jour entre les deux pays et avec différentes compagnies : [AirAsia](https://www.airasia.com/en/gb), [BatikAir](https://www.malindoair.com/) ou [Malaysia Airlines](https://www.malaysiaairlines.com/my/en.html). Le prix d'un billet d'avion aller simple est d'environ 50 € en semaine.
+Le plus simple pour aller en Indonésie depuis Kuala Lumpur est de prendre l'avion. Il y a plusieurs vols par jour entre les deux pays et avec différentes compagnies : [AirAsia](https://www.airasia.com/en/gb){:target="_blank"}, [BatikAir](https://www.malindoair.com/){:target="_blank"} ou [Malaysia Airlines](https://www.malaysiaairlines.com/my/en.html){:target="_blank"}. Le prix d'un billet d'avion aller simple est d'environ 50 € en semaine.
 
 **Conseil** : Ne pas hésiter à comparer les prix et choisir le moment opportun pour voyager à bas coût (voir [Transports](/transports)).
 
@@ -102,4 +102,4 @@ Depuis août 2023, les ressortissants français sont exemptés de visa pour séj
 
 ### Aller au Vietnam
 
-Le plus simple pour aller au Vietnam depuis Kuala Lumpur est de prendre l'avion. Il y a plusieurs vols par jour entre les deux pays et avec différentes compagnies : [AirAsia](https://www.airasia.com/en/gb), [Malaysia Airlines](https://www.malaysiaairlines.com/my/en.html), [VietJet Air](https://www.vietjetair.com/) ou [Vietnam Airlines](https://www.vietnamairlines.com/vn/en/home). Le prix d'un billet d'avion aller simple est d'environ 90 € en semaine.
+Le plus simple pour aller au Vietnam depuis Kuala Lumpur est de prendre l'avion. Il y a plusieurs vols par jour entre les deux pays et avec différentes compagnies : [AirAsia](https://www.airasia.com/en/gb){:target="_blank"}, [Malaysia Airlines](https://www.malaysiaairlines.com/my/en.html){:target="_blank"}, [VietJet Air](https://www.vietjetair.com/){:target="_blank"} ou [Vietnam Airlines](https://www.vietnamairlines.com/vn/en/home){:target="_blank"}. Le prix d'un billet d'avion aller simple est d'environ 90 € en semaine.

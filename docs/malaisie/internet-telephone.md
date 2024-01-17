@@ -19,4 +19,4 @@ Internet est très accessible en Malaisie. Il y a beaucoup de réseaux WiFi publ
 
 ## Acheter une carte SIM
 
-Il vaut mieux d'éviter d'acheter une carte SIM en France qui coûte généralement très cher. Les opérateurs les plus connus en Malaisie sont [Maxis Hotlink](https://www.hotlink.com.my/en/home/) et [Celcom](https://www.celcom.com.my). Vous pouvez trouver leurs offres prépayées dans les boutiques officielles. Vous pouvez aussi trouver des cartes SIM prépayées dans des stations-services ou des *7-Eleven*.
+Il vaut mieux d'éviter d'acheter une carte SIM en France qui coûte généralement très cher. Les opérateurs les plus connus en Malaisie sont [Maxis Hotlink](https://www.hotlink.com.my/en/home/){:target="_blank"} et [Celcom](https://www.celcom.com.my){:target="_blank"}. Vous pouvez trouver leurs offres prépayées dans les boutiques officielles. Vous pouvez aussi trouver des cartes SIM prépayées dans des stations-services ou des *7-Eleven*.

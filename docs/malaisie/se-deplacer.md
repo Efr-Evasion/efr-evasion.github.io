@@ -17,7 +17,7 @@ parent: 🇲🇾 Malaisie
 
 Pendant les heures de pointe, il vaut mieux éviter de prendre la voiture. Il y a beaucoup de bouchons et il est difficile de trouver une place de parking. Il est préférable de prendre les transports en commun.
 
-🚌 **Installer des applis de transports en commun** : [Moovit](https://moovitapp.com/) et [MyRapid PULSE](https://myrapid.com.my/pulse/mobile-app/) sont les deux applis à avoir pour se déplacer en transports en commun à Kuala Lumpur. Elles permettent de calculer des itinéraires, de connaître les horaires et de savoir où se trouvent les arrêts de bus et de métro les plus proches.
+🚌 **Installer des applis de transports en commun** : [Moovit](https://moovitapp.com/){:target="_blank"} et [MyRapid PULSE](https://myrapid.com.my/pulse/mobile-app/){:target="_blank"} sont les deux applis à avoir pour se déplacer en transports en commun à Kuala Lumpur. Elles permettent de calculer des itinéraires, de connaître les horaires et de savoir où se trouvent les arrêts de bus et de métro les plus proches.
 
 - Télécharger Moovit :
 
@@ -35,11 +35,11 @@ Pendant les heures de pointe, il vaut mieux éviter de prendre la voiture. Il y 
 
 ### En métro / monorail
 
-Le métro de Kuala Lumpur est géré par la compagnie [RapidKL](https://www.myrapid.com.my/). Vous pouvez acheter des tickets à l'unité ou des cartes de transport rechargeables. Vous pouvez trouver les horaires et les tarifs sur le site de [RapidKL](https://www.myrapid.com.my/).
+Le métro de Kuala Lumpur est géré par la compagnie [RapidKL](https://www.myrapid.com.my/){:target="_blank"}. Vous pouvez acheter des tickets à l'unité ou des cartes de transport rechargeables. Vous pouvez trouver les horaires et les tarifs sur le site de [RapidKL](https://www.myrapid.com.my/){:target="_blank"}.
 
 ![Carte du réseau de trains](/assets/images/malaisie/KL-carte-transports.webp)
 
-Il y aussi une ligne rapide, *KLIA Ekspres*, qui relie l'aéroport de Kuala Lumpur au centre-ville (KL Sentral) en moins de 30 minutes pour 55 MYR (environ 11€). Vous pouvez trouver les horaires sur le site de [KLIA Ekspres](https://www.kliaekspres.com/).
+Il y aussi une ligne rapide, *KLIA Ekspres*, qui relie l'aéroport de Kuala Lumpur au centre-ville (KL Sentral) en moins de 30 minutes pour 55 MYR (environ 11€). Vous pouvez trouver les horaires sur le site de [KLIA Ekspres](https://www.kliaekspres.com/){:target="_blank"}.
 
 ### En bus
 
@@ -51,7 +51,7 @@ Il y a plusieurs réseaux de bus en activité à Kuala Lumpur.
 
 ![Carte du réseau de bus GO KL](/assets/images/malaisie/gokl-map.webp)
 
-- **KL Hop-On Hop-Off** est un réseau de bus touristique qui dessert les principaux sites touristiques de la ville. Ce sont des bus à deux étages, avec des commentaires audio dans de multiples langages. Plus d'informations sur le site de [KL Hop-On Hop-Off](https://myhoponhopoff.com/kl/).
+- **KL Hop-On Hop-Off** est un réseau de bus touristique qui dessert les principaux sites touristiques de la ville. Ce sont des bus à deux étages, avec des commentaires audio dans de multiples langages. Plus d'informations sur le site de [KL Hop-On Hop-Off](https://myhoponhopoff.com/kl/){:target="_blank"}.
 
 ![Carte du réseau de bus KL Hop-On Hop-Off](/assets/images/malaisie/kl-hop-on-hop-off.png)
 
@@ -83,7 +83,7 @@ On vous conseille de prendre un Grab plutôt qu'un taxi en général.
 
 ### En train
 
-Les trains en Malaisie sont gérés par la compagnie [KTM](https://www.ktmb.com.my/). Le réseau ferroviaire malaisien est en forme de Y, avec un tronc commun qui part de Singapour et se sépare en deux branches à Gemas.
+Les trains en Malaisie sont gérés par la compagnie [KTM](https://www.ktmb.com.my/){:target="_blank"}. Le réseau ferroviaire malaisien est en forme de Y, avec un tronc commun qui part de Singapour et se sépare en deux branches à Gemas.
 
 ![Carte du réseau ferroviaire malaisien](/assets/images/malaisie/malaysia-rail-map.png)
 
@@ -93,7 +93,7 @@ Il y a deux types de trains :
 
 - Les KTM Intercity sont des trains qui relient les grandes villes de la péninsule malaisienne. Ils sont plus lents et moins confortables que les ETS. Ils couvrent le reste du territoire.
 
-Vous pouvez réserver vos billets de train sur le site de la compagnie [KTM](https://www.ktmb.com.my/).
+Vous pouvez réserver vos billets de train sur le site de la compagnie [KTM](https://www.ktmb.com.my/){:target="_blank"}.
 
 ### En bus
 

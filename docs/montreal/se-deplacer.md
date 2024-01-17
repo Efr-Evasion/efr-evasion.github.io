@@ -17,4 +17,4 @@ Le coût par trajet via le métro de Montréal s'élève à  3,25 dollars, quelq
 
 ### En bus
 
-La Société de Transport de Montréal assure le fonctionnement de nombreuses lignes de bus passant à travers la ville et se déplace également en banlieue. Vous pouvez consulter le trajet des différentes lignes [ici](https://www.stm.info/fr/infos/reseaux/bus).
+La Société de Transport de Montréal assure le fonctionnement de nombreuses lignes de bus passant à travers la ville et se déplace également en banlieue. Vous pouvez consulter le trajet des différentes lignes [ici](https://www.stm.info/fr/infos/reseaux/bus){:target="_blank"}.
