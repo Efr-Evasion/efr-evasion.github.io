@@ -19,6 +19,20 @@ Pendant les heures de pointe, il vaut mieux éviter de prendre la voiture. Il y 
 
 🚌 **Installer des applis de transports en commun** : [Moovit](https://moovitapp.com/) et [MyRapid PULSE](https://myrapid.com.my/pulse/mobile-app/) sont les deux applis à avoir pour se déplacer en transports en commun à Kuala Lumpur. Elles permettent de calculer des itinéraires, de connaître les horaires et de savoir où se trouvent les arrêts de bus et de métro les plus proches.
 
+- Télécharger Moovit :
+
+<div>
+    <a href='https://play.google.com/store/apps/details?id=com.tranzmate&hl=fr&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible sur Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png' style='height: 50px; margin-right: 10px;'/></a>
+    <a href="https://apps.apple.com/us/app/moovit-all-transit-options/id498477945?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/fr-fr?size=250x83&amp;releaseDate=1330387200" alt="Download on the App Store" style="border-radius: 13px;"></a>
+</div>
+
+- Télécharger MyRapid PULSE :
+
+<div>
+    <a href='https://play.google.com/store/apps/details?id=com.prasarana.pulse&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible sur Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png' style='height: 50px; margin-right: 10px;'/></a>
+    <a href="https://apps.apple.com/us/app/myrapid-pulse/id1545938705?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/fr-fr?size=250x83&amp;releaseDate=1667174400" alt="Download on the App Store" style="border-radius: 13px;"></a>
+</div>
+
 ### En métro / monorail
 
 Le métro de Kuala Lumpur est géré par la compagnie [RapidKL](https://www.myrapid.com.my/). Vous pouvez acheter des tickets à l'unité ou des cartes de transport rechargeables. Vous pouvez trouver les horaires et les tarifs sur le site de [RapidKL](https://www.myrapid.com.my/).
@@ -31,7 +45,9 @@ Il y aussi une ligne rapide, *KLIA Ekspres*, qui relie l'aéroport de Kuala Lump
 
 Il y a plusieurs réseaux de bus en activité à Kuala Lumpur. 
 
-- **GO KL City Bus** est un réseau de bus gratuit qui dessert les principaux sites touristiques de la ville. Vous pouvez trouver les horaires sur le site de [Moovit](https://moovitapp.com/index/en/public_transit-lines-Kuala_Lumpur-1082-856288).
+- **Rapid KL** est 
+
+- **GO KL City Bus** est un réseau de bus gratuit qui dessert les principaux sites touristiques de la ville. Vous pouvez trouver les horaires sur le site de [Moovit](https://moovitapp.com/index/en/public_transit-lines-Kuala_Lumpur-1082-856288){:target="_blank"}.
 
 ![Carte du réseau de bus GO KL](/assets/images/malaisie/gokl-map.webp)
 
@@ -39,13 +55,12 @@ Il y a plusieurs réseaux de bus en activité à Kuala Lumpur.
 
 ![Carte du réseau de bus KL Hop-On Hop-Off](/assets/images/malaisie/kl-hop-on-hop-off.png)
 
-- **Rapid KL** est 
-
-
 
 ### En VTC
 
-🚗 **Utiliser Grab** : Grab est le service de VTC le plus utilisé en Malaisie. C'est l'équivalent de Uber. Il est très pratique pour se déplacer à Kuala Lumpur, mais aussi pour aller à l'aéroport. Il est possible de payer en cash ou par carte bancaire. Vous pouvez télécharger l'appli sur [Google Play](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger&hl=fr&gl=US) ou [l'App Store](https://apps.apple.com/fr/app/grab-app/id647268330). Ils sont généralement moins chers que les taxis.                                  
+🚗 **Utiliser Grab** : Grab est le service de VTC le plus utilisé en Malaisie. C'est l'équivalent de Uber. Il est très pratique pour se déplacer à Kuala Lumpur, mais aussi pour aller à l'aéroport. Il est possible de payer en cash ou par carte bancaire. Vous pouvez télécharger l'appli sur [Google Play](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger&hl=fr&gl=US){:target="_blank"} ou [l'App Store](https://apps.apple.com/fr/app/grab-app/id647268330){:target="_blank"}. Ils sont généralement moins chers que les taxis.                                  
+
+Télécharger Grab : 
 
 <div>
     <a href='https://play.google.com/store/apps/details?id=com.grabtaxi.passenger&hl=fr&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible sur Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png' style='height: 50px; margin-right: 10px;'/></a>
@@ -84,9 +99,9 @@ Vous pouvez réserver vos billets de train sur le site de la compagnie [KTM](htt
 
 Les bus couvrent une grande partie du territoire malaisien. Ils sont confortables et climatisés. Il existe plusieurs compagnies de bus. Vous pouvez réserver vos billets sur :
 
-- [Easybook](https://www.easybook.com/). Il vous permet d'acheter des billets de bus, de train, de ferry et de voiture de location en Malaisie et dans les pays voisins.
+- [Easybook](https://www.easybook.com/){:target="_blank"}. Ce site vous permet d'acheter des billets de bus, de train, de ferry et de voiture de location en Malaisie et dans les pays voisins.
 
-- [Redbus](https://www.redbus.my/). Il vous permet d'acheter des billets de bus et de ferry pour la Malaisie, Singapour et Brunei.
+- [Redbus](https://www.redbus.my/){:target="_blank"}. Ce site vous permet d'acheter des billets de bus et de ferry pour la Malaisie, Singapour et Brunei.
 
 
 

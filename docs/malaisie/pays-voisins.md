@@ -23,8 +23,8 @@ Pour entrer à Singapour, les ressortissants français doivent avoir :
 - un billet allet-retour ou un billet de continuation
 - suffisamment d'argent pour la durée du séjour
 
-Il faut aussi remplir un formulaire d'entrée en ligne à remplir **dans les 3 jours avant l'arrivée à Singapour** : [SG Arrival Card](https://www.ica.gov.sg/). 
-La déclaration peut aussi être faite via l'application mobile MyICA disponible sur [Google Play](https://play.google.com/store/apps/details?id=sg.gov.ica.myica&hl=fr&gl=US) et [l'App Store](https://apps.apple.com/sg/app/myica/id1440218738).
+Il faut aussi remplir un formulaire d'entrée en ligne à remplir **dans les 3 jours avant l'arrivée à Singapour** : [SG Arrival Card](https://www.ica.gov.sg/){:target="_blank"}. 
+La déclaration peut aussi être faite via l'application mobile MyICA disponible sur [Google Play](https://play.google.com/store/apps/details?id=sg.gov.ica.myica&hl=fr&gl=US){:target="_blank"} et [l'App Store](https://apps.apple.com/sg/app/myica/id1440218738){:target="_blank"}.
 
 ### Aller à Singapour
 
@@ -38,13 +38,13 @@ Il y a plusieurs moyens de transport pour aller à Singapour depuis Kuala Lumpur
 
 #### En avion
 
-L'avion est le moyen de transport le plus rapide pour aller à Singapour depuis Kuala Lumpur. Il y a plusieurs vols par jour entre les deux villes et avec différentes compagnies : [Scoot](https://www.flyscoot.com/en), [AirAsia](https://www.airasia.com/en/gb), [JetStar](https://www.jetstar.com/au/en/home) ou [BatikAir](https://www.malindoair.com/). Le prix d'un billet d'avion aller simple est d'environ 15 € en semaine.
+L'avion est le moyen de transport le plus rapide pour aller à Singapour depuis Kuala Lumpur. Il y a plusieurs vols par jour entre les deux villes et avec différentes compagnies : [Scoot](https://www.flyscoot.com/en){:target="_blank"}, [AirAsia](https://www.airasia.com/en/gb){:target="_blank"}, [JetStar](https://www.jetstar.com/au/en/home) ou [BatikAir](https://www.malindoair.com/){:target="_blank"}. Le prix d'un billet d'avion aller simple est d'environ 15 € en semaine.
 
 **Conseil** : Ne pas hésiter à comparer les prix et choisir le moment opportun pour voyager à bas coût (voir [Transports](/transports)).
 
 #### En bus
 
-Il est possible de prendre le bus pour aller à Singapour depuis Kuala Lumpur. Le trajet dure environ 5h. Il y a plusieurs compagnies de bus qui proposent des trajets entre les deux villes : [EasyBook](https://www.easybook.com/en-my/bus/booking/kualalumpur-to-singapore), [BusOnlineTicket](https://www.busonlineticket.com/booking/kuala-lumpur-to-singapore-bus-tickets), [CatchThatBus](https://www.catchthatbus.com/bus-tickets/kuala-lumpur-to-singapore) ou [RedBus](https://www.redbus.my/bus-tickets/kuala-lumpur-to-singapore).
+Il est possible de prendre le bus pour aller à Singapour depuis Kuala Lumpur. Le trajet dure environ 5h. Il y a plusieurs compagnies de bus qui proposent des trajets entre les deux villes : [EasyBook](https://www.easybook.com/en-my/bus/booking/kualalumpur-to-singapore){:target="_blank"}, [BusOnlineTicket](https://www.busonlineticket.com/booking/kuala-lumpur-to-singapore-bus-tickets){:target="_blank"}, [CatchThatBus](https://www.catchthatbus.com/bus-tickets/kuala-lumpur-to-singapore){:target="_blank"} ou [RedBus](https://www.redbus.my/bus-tickets/kuala-lumpur-to-singapore){:target="_blank"}.
 
 **Avertissement** : La durée du trajet peut être prolongée en fonction du trafic à la frontière entre la Malaisie et Singapour. L'état du trafic aux frontières en temps réel est disponible [ici](https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/traffic_information/traffic-cameras/woodlands.html#trafficCameras).
 

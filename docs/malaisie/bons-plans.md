@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Internet et téléphone
-permalink: /malaisie/internet-telephone/
+title: Bons plans
+permalink: /malaisie/bons-plans/
 parent: 🇲🇾 Malaisie
 ---
 
