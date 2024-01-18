@@ -45,7 +45,7 @@ Il y aussi une ligne rapide, *KLIA Ekspres*, qui relie l'aéroport de Kuala Lump
 
 Il y a plusieurs réseaux de bus en activité à Kuala Lumpur. 
 
-- **Rapid KL** est 
+- **Rapid KL** est le réseau de bus de la ville. Vous pouvez trouver les horaires et les tarifs sur le site de [Rapid KL](https://www.myrapid.com.my/){:target="_blank"}.
 
 - **GO KL City Bus** est un réseau de bus gratuit qui dessert les principaux sites touristiques de la ville. Vous pouvez trouver les horaires sur le site de [Moovit](https://moovitapp.com/index/en/public_transit-lines-Kuala_Lumpur-1082-856288){:target="_blank"}.
 
@@ -59,6 +59,8 @@ Il y a plusieurs réseaux de bus en activité à Kuala Lumpur.
 ### En VTC
 
 🚗 **Utiliser Grab** : Grab est le service de VTC le plus utilisé en Malaisie. C'est l'équivalent de Uber. Il est très pratique pour se déplacer à Kuala Lumpur, mais aussi pour aller à l'aéroport. Il est possible de payer en cash ou par carte bancaire. Vous pouvez télécharger l'appli sur [Google Play](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger&hl=fr&gl=US){:target="_blank"} ou [l'App Store](https://apps.apple.com/fr/app/grab-app/id647268330){:target="_blank"}. Ils sont généralement moins chers que les taxis.                                  
+
+Vous pouvez avoir une estimation du tarif sur le site de Grab : [lien](https://www.grab.com/my/fare-check/){:target="_blank"}.
 
 Télécharger Grab : 
 
@@ -95,6 +97,13 @@ Il y a deux types de trains :
 
 Vous pouvez réserver vos billets de train sur le site de la compagnie [KTM](https://www.ktmb.com.my/){:target="_blank"}.
 
+Télécharger l'application KTM :
+
+<div>
+    <a href='https://play.google.com/store/apps/details?id=com.ktmb.user.mobile&hl=fr&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible sur Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png' style='height: 50px; margin-right: 10px;'/></a>
+    <a href="https://apps.apple.com/fr/app/ktmb-mobile/id1527902857?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/fr-fr?size=250x83&amp;releaseDate=1556899200" alt="Download on the App Store" style="border-radius: 13px;"></a>
+</div>
+
 ### En bus
 
 Les bus couvrent une grande partie du territoire malaisien. Ils sont confortables et climatisés. Il existe plusieurs compagnies de bus. Vous pouvez réserver vos billets sur :
@@ -103,5 +112,11 @@ Les bus couvrent une grande partie du territoire malaisien. Ils sont confortable
 
 - [Redbus](https://www.redbus.my/){:target="_blank"}. Ce site vous permet d'acheter des billets de bus et de ferry pour la Malaisie, Singapour et Brunei.
 
+Télécharger l'application Redbus :
+
+<div>
+    <a href='https://play.google.com/store/apps/details?id=in.redbus.android&hl=fr&gl=US&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible sur Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png' style='height: 50px; margin-right: 10px;'/></a>
+    <a href="https://apps.apple.com/fr/app/ktmb-mobile/id1527902857?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/fr-fr?size=250x83&amp;releaseDate=1556899200" alt="Download on the App Store" style="border-radius: 13px;"></a>
+</div>
 
 
