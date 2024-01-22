@@ -55,6 +55,7 @@ Il y a plusieurs réseaux de bus en activité à Kuala Lumpur.
 
 ![Carte du réseau de bus KL Hop-On Hop-Off](/assets/images/malaisie/kl-hop-on-hop-off.png)
 
+- **Navette APU** : Il y a un service de navette gratuit entre le campus d'APU et la station de métro Sri Petaling. Vous pouvez trouver les horaires sur le site d'APU : [lien](https://new.apu.edu.my/shuttle-services-campus-connect){:target="_blank"}.
 
 ### En VTC
 
