@@ -2,7 +2,7 @@
 layout: page
 title: 💊 Santé
 permalink: /sante/
-nav_order: 6
+nav_order: 7
 ---
 
 # Santé
