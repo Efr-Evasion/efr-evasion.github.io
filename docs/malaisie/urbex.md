@@ -2,7 +2,6 @@
 layout: page
 title: Urbex
 permalink: /malaisie/urbex/
-parent: 🇲🇾 Malaisie
 nav_exclude: true
 ---
 
