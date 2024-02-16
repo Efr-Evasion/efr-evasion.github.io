@@ -33,7 +33,7 @@ Les grottes de Batu sont un complexe de grottes calcaires situé à 10 kilomètr
 
 La tour Menara, également appelée Tour KL, est une tour de 421 mètres de haut (antenne comprise) située à Kuala Lumpur, en Malaisie. Elle a été conçue par l’architecte Kumpulan Senireka Sdn Bhd et la construction a commencé le 4 octobre 1991. La tour a été ouverte au public le 23 juillet 1996 et inaugurée le 1er octobre 1996, soit cinq ans après le début des travaux.
 
-La tour Menara est dédiée aux télécommunications et à la visite de touristes. Les visiteurs peuvent accéder à une plateforme d’observation panoramique située à 276 m du sol, et également monter au niveau supérieur qui intègre un restaurant tout aussi panoramique.
+La tour Menara est dédiée aux télécommunications et à la visite de touristes. Les visiteurs peuvent accéder à une plateforme d’observation panoramique située à 276 m du sol, et également monter au niveau supérieur qui intègre un restaurant tout aussi panoramique, [Atmosphere 360](https://atmosphere360.com.my/){:target="_blank"}.
 
 ![Menara Tower](/assets/images/malaisie/menara-tower.jpg)
 
@@ -91,6 +91,8 @@ Le zoo de Singapour est un parc zoologique situé dans le quartier de Mandai, à
 
 ![Zoo de Singapour](/assets/images/malaisie/singapore-zoo.jpg)
 
+Plus d'informations sur le site officiel : [Zoo de Singapour](https://www.mandai.com/en/singapore-zoo.html){:target="_blank"}
+
 - **🧧 Chinatown**
 
 Chinatown est un quartier de Singapour situé dans le district de Outram. Le quartier est connu pour ses boutiques, ses restaurants, ses temples, ses musées et ses marchés. Il est également un lieu de vacances populaire pour les touristes étrangers.
@@ -100,6 +102,8 @@ Chinatown est un quartier de Singapour situé dans le district de Outram. Le qua
 - 😯 Vaut le détour : **Aéroport de Changi**
 
 ![Changi Airport](/assets/images/malaisie/changi-airport.jpg)
+
+Plus d'informatiosn sur le site officiel : [Aéroport de Changi](https://www.changiairport.com/){:target="_blank"}
 
 - 🎨 Un peu de culture : **National Gallery**
 
