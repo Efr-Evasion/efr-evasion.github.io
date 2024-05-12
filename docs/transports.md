@@ -2,6 +2,7 @@
 layout: page
 title: ✈️ Transports
 permalink: /transports/
+nav_order: 8
 ---
 
 # Transports
@@ -28,6 +29,7 @@ Il est très intéressant de regarder les offres pour les étudiants chez les co
 | 🇶🇦 **Qatar Airways** | - Tarif préférentiel<br>- Bagage en soute supplémentaire gratuit<br>- Modification flexible de date<br>- Wifi offert | [Compagnie](https://www.qatarairways.com/fr-fr/Privilege-Club/student-club-join-now.html){:target="_blank"} |
 | 🇦🇪 **Emirates** | - Réduction de 10 %<br>- Bagage en soute supplémentaire gratuit | [Compagnie](https://www.emirates.com/fr/french/special-offers/student-special-fares/){:target="_blank"} |
 | 🇹🇷 **Turkish Airlines** | - Réductions entre 15 et 20 %<br> - 40 kg de franchise bagage<br>- Modification gratuite du billet | [Compagnie](https://www.turkishairlines.com/fr-fr/student/) |
+| 🇲🇾 **Malaysia Airlines** | - Jusqu'à 30 % de réduction<br>- Jusqu'à 45 kg de franchise bagages gratuite<br>- Modification gratuite de date de vol | [Compagnie](https://www.malaysiaairlines.com/my/en/student-portal/mhexplorer-login.html) |
 | 🇻🇳 **Vietnam Airlines** | - Réduction de 5 % sur les vols domestiques<br>- Réduction de 10 % sur les vols internationaux<br>- Bagage en soute supplémentaire gratuit | [Compagnie](https://www.vietnamairlines.com/en/sites/lotus-student){:target="_blank"} |
 | 🇸🇬 **Singapore Airlines** | - Réduction de 10 %<br>- 40 kg de franchise bagage<br>- Modification sans frais de date, de destination ou de classe | [Compagnie](https://www.singaporeair.com/fr_FR/fr/plan-travel/promotions/student-privileges/) |
 
@@ -42,7 +44,7 @@ Il est très intéressant de regarder les offres pour les étudiants chez les co
 
 - 📊 **Comparer les tarifs avec des comparateurs de prix** comme [Skyscanner](https://www.skyscanner.fr/){:target="_blank"}, [Google Flights](https://www.google.fr/flights){:target="_blank"} ou [Kayak](https://www.kayak.fr/){:target="_blank"}. N'hésitez pas à comparer les tarifs entre les comparateurs pour les mêmes vols. Généralement, vous avez la possibilité de créer des alertes pour être notifié lorsque le prix d'un vol baisse.
 
-- 🔒 **Prendre un billet directement auprès de la compagnie aérienne.** Les revendeurs de billets d'avion tels que [Opodo](https://www.opodo.fr/){:target="_blank"} ou [GoToGate](https://www.govoyages.com/){:target="_blank"} sont souvent moins chers car il s'agit de services de courtage. Cependant, ils ne sont pas toujours fiables et il est parfois difficile de les joindre en cas de problème. Réserver sur le site de la compagnie vous permettra d'avoir un interlocuteur dédié et plus simple à joindre en cas de problème. En plus de cela, vous pourrez cumuler des avantages fidélité.
+- 🔒 **Prendre un billet directement auprès de la compagnie aérienne.** Les revendeurs de billets d'avion tels que [Opodo](https://www.opodo.fr/){:target="_blank"} ou [GoToGate](https://www.govoyages.com/){:target="_blank"} sont souvent moins chers car il s'agit de services de courtage. Cependant, ils ne sont pas toujours fiables et il est parfois difficile de les joindre en cas de problème. Réserver sur le site de la compagnie vous permettra d'avoir un interlocuteur dédié et plus simple à joindre en cas de problème.
 
 - 💺 **Si vous voyagez à 2, choisissez les deux extrémités de la rangée.** Si le vol n'est pas complet, il y a de fortes chances que personne ne s'assoit entre vous deux. Sinon, vous pourrez toujours demander à votre voisin de changer de place avec vous.
 
