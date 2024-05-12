@@ -17,6 +17,21 @@ permalink: /transports/
 
 Les billets d'avion sont l'un des postes de dépense les plus importants pour le voyage. Voici quelques conseils pour réduire le coût de vos billets d'avion :
 
+### Statut étudiant chez les compagnies aériennes
+
+Il est très intéressant de regarder les offres pour les étudiants chez les compagnies aériennes. Voici quelques exemples de compagnies qui proposent des offres pour les étudiants :
+
+| Compagnie | Offre étudiant | Lien |
+|-----------|----------------|------|
+| 🇫🇷 **Air France** | - Tarif préférentiel<br>- Modification flexible de date<br>- 2 bagages en soute de 23 kg gratuits | [Compagnie](https://wwws.airfrance.fr/information/offres/etudiants){:target="_blank"} |
+| 🇨🇦 **Air Canada** | - Tarif préférentiel<br>- Modification flexible de date<br>- 2 bagages en soute de 23 kg gratuits | [Via la carte ISIC](https://isic.fr/article/air-canada){:target="_blank"} |
+| 🇶🇦 **Qatar Airways** | - Tarif préférentiel<br>- Bagage en soute supplémentaire gratuit<br>- Modification flexible de date<br>- Wifi offert | [Compagnie](https://www.qatarairways.com/fr-fr/Privilege-Club/student-club-join-now.html){:target="_blank"} |
+| 🇦🇪 **Emirates** | - Réduction de 10 %<br>- Bagage en soute supplémentaire gratuit | [Compagnie](https://www.emirates.com/fr/french/special-offers/student-special-fares/){:target="_blank"} |
+| 🇹🇷 **Turkish Airlines** | - Réductions entre 15 et 20 %<br> - 40 kg de franchise bagage<br>- Modification gratuite du billet | [Compagnie](https://www.turkishairlines.com/fr-fr/student/) |
+| 🇻🇳 **Vietnam Airlines** | - Réduction de 5 % sur les vols domestiques<br>- Réduction de 10 % sur les vols internationaux<br>- Bagage en soute supplémentaire gratuit | [Compagnie](https://www.vietnamairlines.com/en/sites/lotus-student){:target="_blank"} |
+| 🇸🇬 **Singapore Airlines** | - Réduction de 10 %<br>- 40 kg de franchise bagage<br>- Modification sans frais de date, de destination ou de classe | [Compagnie](https://www.singaporeair.com/fr_FR/fr/plan-travel/promotions/student-privileges/) |
+
+
 ### Avant le vol
 
 - ⏱️ **Acheter son billet le plus tôt possible**. Les prix des billets d'avion augmentent au fur et à mesure que la date du départ approche. Il est donc préférable de réserver son billet le plus tôt possible. 
