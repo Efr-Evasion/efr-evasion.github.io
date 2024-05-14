@@ -33,6 +33,7 @@ Il est très intéressant de regarder les offres pour les étudiants chez les co
 | 🇲🇾 **Malaysia Airlines** | - Jusqu'à 30 % de réduction<br>- Jusqu'à 45 kg de franchise bagages gratuite<br>- Modification gratuite de date de vol | [Compagnie](https://www.malaysiaairlines.com/my/en/student-portal/mhexplorer-login.html) |
 | 🇻🇳 **Vietnam Airlines** | - Réduction de 5 % sur les vols domestiques<br>- Réduction de 10 % sur les vols internationaux<br>- Bagage en soute supplémentaire gratuit | [Compagnie](https://www.vietnamairlines.com/en/sites/lotus-student){:target="_blank"} |
 | 🇸🇬 **Singapore Airlines** | - Réduction de 10 %<br>- 40 kg de franchise bagage<br>- Modification sans frais de date, de destination ou de classe | [Compagnie](https://www.singaporeair.com/fr_FR/fr/plan-travel/promotions/student-privileges/) |
+| 🇺🇸 **United Airlines** | - Réduction de 5 % sur les billets Economy | [Compagnie](https://www.united.com/fr/fr/fly/mileageplus/young-adult-discount.html) |
 
 
 ### Avant le vol
@@ -53,7 +54,7 @@ Il est très intéressant de regarder les offres pour les étudiants chez les co
 
 - 🧳 **Voyager léger.** Les compagnies aériennes facturent souvent les bagages en soute, notamment sur les vols courts. Il est donc préférable de voyager léger et de prendre un bagage cabine.
 
-- 🌍 **Regarder la carte des correspondances d'aéroports** : [Flight Connections](https://www.flightconnections.com/fr/){:target="_blank"}. C'est un site très utile pour prévoir des voyages.
+- 🌍 **Regarder la carte des correspondances d'aéroports** : [Flight Connections](https://www.flightconnections.com/fr){:target="_blank"}. C'est un site très utile pour prévoir des voyages.
 
 - 🍿 **Prendre un maximum de divertissement.** Les vols long-courriers sont souvent équipés d'écrans individuels avec des films, des séries et des jeux. Vous pouvez aussi prendre un livre, un jeu de cartes, un casque audio, un ordinateur portable, une tablette avec des films et des séries téléchargés.
 
